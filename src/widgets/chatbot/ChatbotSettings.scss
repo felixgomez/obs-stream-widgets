@@ -1,0 +1,10 @@
+@import '../variables';
+.chat-settings {
+  .demo-wrapper {
+    height: 450px;
+    .chat {
+      color: $black !important;
+      height: 400px;
+    }
+  }
+}
